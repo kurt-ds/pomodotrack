@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('../assets/fonts/Poppins-Regular.ttf') format('ttf');
+  font-weight: 400; /* Normal weight */
+  font-style: normal; /* Regular style */
+}
